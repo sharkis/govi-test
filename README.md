@@ -6,7 +6,7 @@ This is a starter template for React/Redux Typescript projects.
 
 It's ready to be deployed to Vercel with serverless functionality, and it's set up for SCSS, Material-UI, RxJS, and React Router.
 
-[Fork on CodeSandbox](https://codesandbox.io/s/react-redux-serverless-typescript-template-0r88m?file=/README.md)
+[Fork on CodeSandbox](https://codesandbox.io/s/react-redux-serverless-typescript-template-4sigy?file=/README.md)
 
 ### Serverless
 

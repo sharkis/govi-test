@@ -46,7 +46,7 @@ export const App = (): React.ReactElement => {
     makeServerlessCall('/api/deployed', (response) => {
       dispatch(setDeployed(response.data));
     });
-    makeServerlessCall('/api/deployed', (response) => {
+    makeServerlessCall('/api/greeting', (response) => {
       dispatch(setGreeting(response.data));
     });
   }, [makeServerlessCall, dispatch, setDeployed, setGreeting]);

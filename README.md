@@ -20,7 +20,7 @@ If the calls aren't being made from a Vercel deployment, you won't receive valid
 
 So don't try to access unavailable or nonexistent environment variables.
 
-#Coding Challenge
+# Coding Challenge
 
 ## React + Node
 1. Display a loader while the vercel deployment/app loads
